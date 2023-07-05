@@ -1,4 +1,4 @@
-class single_class;
+class sing_class;
   static protected singleton_class obt;
   protected function new(string st="Hey there I am using singleton class")
     super.new(st);
